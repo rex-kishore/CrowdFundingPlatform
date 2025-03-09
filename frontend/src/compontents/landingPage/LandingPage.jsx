@@ -49,8 +49,8 @@ const LandingPage = () => {
     {
       title: 'Publishing',
       content:
-        'Every story deserves to be heard. At FioraFund, we empower writers, poets, and publishers to share their voices with the world. Whether you\'re launching a novel, a poetry collection, or a digital publication, our community supports storytellers who inspire, educate, and entertain. Turn pages, turn heads – with FioraFund.',
-      img: 'https://via.placeholder.com/500',
+        'Every story deserves to be heard. At FioraFund, we empower writers, poets, and publishers to share their voices with the world. Whether you\'re launching a novel, a poetry collection, or a digital publication, our community supports storytellers who inspire, educate, and entertain. Turn pages, turn heads with FioraFund.',
+      img: '../../assets/img/publishing.jpg',
     },
     ];
     

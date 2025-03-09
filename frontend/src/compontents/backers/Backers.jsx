@@ -9,22 +9,22 @@ const Backers = () => {
       id: 1,
       title: "Innovative Smart Home Device",
       description: "Make your home smarter with our AI-powered device.",
-      goal: "50,000 USD",
-      raised: "30,000 USD"
+      goal: "50,000 Rupees",
+      raised: "30,000 Rupees"
     },
     {
       id: 2,
       title: "Eco-Friendly Fashion Line",
       description: "Support sustainable fashion made from recycled materials.",
-      goal: "20,000 USD",
-      raised: "15,000 USD"
+      goal: "20,000 Rupees",
+      raised: "15,000 Rupees"
     },
     {
       id: 3,
       title: "Educational App for Kids",
       description: "An interactive learning app to enhance children's education.",
-      goal: "10,000 USD",
-      raised: "8,500 USD"
+      goal: "10,000 Rupees",
+      raised: "8,500 Rupees"
     }
   ]);
 

@@ -34,7 +34,7 @@ const Entrepreneur = () => {
           />
           <input
             type="number"
-            placeholder="Goal Amount (USD)"
+            placeholder="Goal Amount (Rupees)"
             value={goalAmount}
             onChange={(e) => setGoalAmount(e.target.value)}
             required

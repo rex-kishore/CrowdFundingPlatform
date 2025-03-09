@@ -1,10 +1,10 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import LandingPage from '../compontents/LandingPage';
-import SignIn from "../compontents/SignIn";
-import SignUp from "../compontents/SignUp";
-import Entrepreneur from "../compontents/Entrepreneur";
-import Backers from "../compontents/Backers";
+import LandingPage from '../compontents/landingPage/LandingPage';
+import SignIn from "../compontents/login/SignIn";
+import SignUp from "../compontents/login/SignUp";
+import Entrepreneur from "../compontents/fundRiser/Entrepreneur";
+import Backers from "../compontents/backers/Backers";
 
 
 
